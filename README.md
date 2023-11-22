@@ -1,2 +1,4 @@
-# Ola Mundo
- primeiro repositorio do curdo de Git e Github
+# Olá, Mundo!
+ primeiro repositório do curdo de Git e Github
+
+Repositório criado durante uma aula ao vivo
